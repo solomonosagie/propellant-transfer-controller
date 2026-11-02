@@ -1,0 +1,11 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+
+# Telemetry logs
+backend/logs/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/

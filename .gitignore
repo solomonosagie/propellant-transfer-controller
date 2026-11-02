@@ -1,0 +1,23 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Node / build output
+node_modules/
+dist/
+
+# Telemetry captured at runtime
+ground-station/backend/logs/
+*.csv
+
+# Arduino build output
+build/
+
+# Editor and OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
